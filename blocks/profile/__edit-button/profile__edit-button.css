@@ -4,7 +4,7 @@
     box-sizing: border-box;
     border: 1px solid #fff;
     padding: 0;
-    background: url('../../../images/edit-button.png') no-repeat center;
+    background: url('../../../images/edit-button.svg') no-repeat center;
 }
 
 @media  screen and (max-width: 700px) {
